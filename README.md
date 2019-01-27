@@ -14,7 +14,7 @@
 
 В данном случае я использовала библиотеку для Python Pymorphy2
 
-[Файл с кодом](hhttps://github.com/amaliyazar/compling-01.2019/blob/master/pymorphy.py)
+[Файл с кодом](https://github.com/amaliyazar/compling-01.2019/blob/master/pymorphy.py)
 
 В результате исполнения кода производились:
 
